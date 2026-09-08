@@ -1,0 +1,189 @@
+# ==============================================================================
+# Git Ignore for Data Analyst / Data Science Portfolio
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Project Specific / Custom Ignores
+# ------------------------------------------------------------------------------
+# Ignore Logbook folder (both lower and upper case variants)
+[Ll]og[Bb]ook/
+logbook/
+LogBook/
+Logbook/
+
+# Microsoft Office temporary lock files (Word, Excel, PowerPoint)
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# ------------------------------------------------------------------------------
+# 2. Jupyter Notebooks & Interactive Python
+# ------------------------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+checkpoint-*.ipynb
+
+# ------------------------------------------------------------------------------
+# 3. Python & Virtual Environments
+# ------------------------------------------------------------------------------
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+conda/
+miniconda/
+
+# Packaging / Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ------------------------------------------------------------------------------
+# 4. Data Files, Extracts & Large Datasets
+# ------------------------------------------------------------------------------
+# Serialized dataframes & big data formats
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.arrow
+*.avro
+*.orc
+
+# Database files & local query caches
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+
+# Heavy data directory (uncomment if you store massive raw data inside a folder)
+# data/raw/
+# data/processed/
+# data/external/
+# datasets/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ------------------------------------------------------------------------------
+# 5. Machine Learning Models & Serialized Objects
+# ------------------------------------------------------------------------------
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# ML tracking tools
+.mlflow/
+mlruns/
+wandb/
+
+# ------------------------------------------------------------------------------
+# 6. BI & Analytics Tools (Tableau, Power BI, SQL Clients)
+# ------------------------------------------------------------------------------
+# Tableau data extracts (often contain gigabytes of extracted raw data)
+*.hyper
+*.tde
+*.twbx.tmp
+*.tflx
+
+# Power BI temp files
+*.pbit.backup
+
+# DBeaver & SQL client metadata
+.dbeaver/
+*.dbeaver-data-sources.xml
+
+# ------------------------------------------------------------------------------
+# 7. R & RStudio (if used)
+# ------------------------------------------------------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ------------------------------------------------------------------------------
+# 8. Environment Variables & Secret Credentials
+# ------------------------------------------------------------------------------
+# Never commit sensitive tokens, database passwords, or API keys
+.env
+.env.*
+!.env.example
+credentials.json
+client_secret*.json
+service_account*.json
+gcp-credentials*.json
+*.pem
+*.key
+.aws/
+.azure/
+
+# ------------------------------------------------------------------------------
+# 9. IDEs & Code Editors
+# ------------------------------------------------------------------------------
+# VS Code (ignore workspace state, keep project config if needed)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# Cursor & other editors
+.cursor/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+
+# ------------------------------------------------------------------------------
+# 10. Operating System Files
+# ------------------------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ------------------------------------------------------------------------------
+# 11. Logs & Diagnostic Files
+# ------------------------------------------------------------------------------
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
