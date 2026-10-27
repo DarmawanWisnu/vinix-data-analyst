@@ -1,0 +1,461 @@
+{
+ "friendly staff but the wifi connection was terrible": {
+  "teks": "Friendly staff, but the wifi connection was terrible.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Assurance",
+    "sentimen": "Positif",
+    "bukti": "Friendly staff"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "wifi connection was terrible"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "kamar luas view bagus proses checkin juga sat set ga pake lama recommended": {
+  "teks": "kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "kamar luas, view bagus"
+   },
+   {
+    "aspek": "Responsiveness",
+    "sentimen": "Positif",
+    "bukti": "proses checkin juga sat set ga pake lama"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "overprice ga sesuai foto kamarnya sempit bgt sumpek": {
+  "teks": "overprice! ga sesuai foto. kamarnya sempit bgt sumpek.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Reliability",
+    "sentimen": "Negatif",
+    "bukti": "ga sesuai foto"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "kamarnya sempit bgt sumpek"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "staff barely speaks english breakfast was awful": {
+  "teks": "Staff barely speaks English. Breakfast was awful.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Assurance",
+    "sentimen": "Negatif",
+    "bukti": "Staff barely speaks English"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "Breakfast was awful"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "overall bagus bgt bersih dan nyaman anak2 seneng bgt main di pool nya": {
+  "teks": "overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "bersih dan nyaman"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "anak2 seneng bgt main di pool nya"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "terrible experience the room was dirty and smelled like smoke": {
+  "teks": "Terrible experience. The room was dirty and smelled like smoke.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "room was dirty and smelled like smoke"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "sprei kayak blm diganti ada noda kuning minta ganti tpi housekeeping lama": {
+  "teks": "sprei kayak blm diganti, ada noda kuning. minta ganti tpi housekeeping lama.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "sprei kayak blm diganti, ada noda kuning"
+   },
+   {
+    "aspek": "Responsiveness",
+    "sentimen": "Negatif",
+    "bukti": "minta ganti tpi housekeeping lama"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "biasa aja standard bintang 3 nothing special": {
+  "teks": "biasa aja, standard bintang 3. nothing special.",
+  "status": "tanpa_aspek",
+  "mentions": [],
+  "dibuang": 0,
+  "error": null
+ },
+ "check in cepet tapi kebersihan toilet tolong ditingkatkan lg": {
+  "teks": "Check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Reliability",
+    "sentimen": "Positif",
+    "bukti": "Check in cepet"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "kebersihan toilet tolong ditingkatkan lg"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "pelayanan sangat buruk parkiran sempit susah keluar masuk": {
+  "teks": "pelayanan sangat buruk, parkiran sempit susah keluar masuk.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Responsiveness",
+    "sentimen": "Negatif",
+    "bukti": "pelayanan sangat buruk"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "parkiran sempit susah keluar masuk"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "resepsionisnya jutek parah proses check in lama bgt nunggu hampir 2 jam": {
+  "teks": "resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Assurance",
+    "sentimen": "Negatif",
+    "bukti": "resepsionisnya jutek parah!!"
+   },
+   {
+    "aspek": "Reliability",
+    "sentimen": "Negatif",
+    "bukti": "proses check in lama bgt nunggu hampir 2 jam"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "mantapppp nyaman banget bersih staf ramah semua": {
+  "teks": "mantapppp nyaman banget, bersih, staf ramah semua.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "mantapppp nyaman banget, bersih"
+   },
+   {
+    "aspek": "Assurance",
+    "sentimen": "Positif",
+    "bukti": "staf ramah semua"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "very noisy poor soundproofing": {
+  "teks": "Very noisy! Poor soundproofing.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "Very noisy! Poor soundproofing"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "harga worth it banget dgn fasilitas yg dikasih water heater berfungsi baik": {
+  "teks": "harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "water heater berfungsi baik"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "overall lumayan lah cuman wifi aja sering putus2": {
+  "teks": "overall lumayan lah, cuman wifi aja sering putus2.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "wifi aja sering putus2"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "wifi lemot ga bisa dipake kerja sama sekali harga doang mahal fasilitas zonk": {
+  "teks": "Wifi lemot ga bisa dipake kerja sama sekali. harga doang mahal fasilitas zonk.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "Wifi lemot ga bisa dipake kerja sama sekali"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "harga doang mahal fasilitas zonk"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "overpriced for what you get the pictures are misleading": {
+  "teks": "Overpriced for what you get. The pictures are misleading.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Reliability",
+    "sentimen": "Negatif",
+    "bukti": "The pictures are misleading"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "kamar bau apek bgt ac nya juga kurang dingin pdhal bawa anak kecil nyesel nginep sini": {
+  "teks": "kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "kamar bau apek bgt, ac nya juga kurang dingin"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "lokasi strategis kemana mana deket cuma sayang bangunan agak tua dan kasurnya keras": {
+  "teks": "lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "bangunan agak tua dan kasurnya keras"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "selalu langganan nginep sini breakfast nya juara banyak pilihan": {
+  "teks": "selalu langganan nginep sini. breakfast nya juara! banyak pilihan",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "breakfast nya juara! banyak pilihan"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "very clean spacious room highly recommended": {
+  "teks": "Very clean, spacious room. Highly recommended.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "Very clean, spacious room"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "perfect location beautiful pool will come back": {
+  "teks": "Perfect location, beautiful pool. Will come back.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "beautiful pool"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "banyak nyamuk air panas di kamar mandi mati nyala gak rekomen": {
+  "teks": "Banyak nyamuk, air panas di kamar mandi mati nyala. Gak rekomen.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "Banyak nyamuk"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "air panas di kamar mandi mati nyala"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin": {
+  "teks": "karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Empathy",
+    "sentimen": "Positif",
+    "bukti": "karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "kecewa berat makanan breakfast dingin semua jam 8 pagi udh pada habis": {
+  "teks": "kecewa berat. makanan breakfast dingin semua jam 8 pagi udh pada habis.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "makanan breakfast dingin semua jam 8 pagi udh pada habis"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "excellent stay the staff went above and beyond": {
+  "teks": "Excellent stay! The staff went above and beyond.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Empathy",
+    "sentimen": "Positif",
+    "bukti": "staff went above and beyond"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "average stay clean enough but breakfast options are very limited": {
+  "teks": "Average stay. Clean enough, but breakfast options are very limited.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Netral",
+    "bukti": "Clean enough"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "breakfast options are very limited"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "kamarnya sih luas dan bersih tapi stafnya kurang ramah pas di resto": {
+  "teks": "kamarnya sih luas dan bersih, tapi stafnya kurang ramah pas di resto.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "kamarnya sih luas dan bersih"
+   },
+   {
+    "aspek": "Assurance",
+    "sentimen": "Negatif",
+    "bukti": "stafna kurang ramah pas di resto"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "sarapan bervariasi rasanya lumayan tp ac d kamar agak berisik jd kurang nyenyak": {
+  "teks": "sarapan bervariasi rasanya lumayan. tp ac d kamar agak berisik jd kurang nyenyak.",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Netral",
+    "bukti": "sarapan bervariasi rasanya lumayan"
+   },
+   {
+    "aspek": "Tangible",
+    "sentimen": "Negatif",
+    "bukti": "ac d kamar agak berisik jd kurang nyenyak"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ },
+ "great value for money the buffet breakfast was amazing": {
+  "teks": "Great value for money. The buffet breakfast was amazing!",
+  "status": "ok",
+  "mentions": [
+   {
+    "aspek": "Tangible",
+    "sentimen": "Positif",
+    "bukti": "The buffet breakfast was amazing"
+   }
+  ],
+  "dibuang": 0,
+  "error": null
+ }
+}

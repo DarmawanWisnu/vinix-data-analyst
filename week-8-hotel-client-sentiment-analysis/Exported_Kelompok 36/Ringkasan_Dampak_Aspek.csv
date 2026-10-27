@@ -1,0 +1,6 @@
+;korelasi_spearman;n_keluhan;pct_ulasan_mengeluhkan;rating_saat_dikeluhkan;rating_saat_tidak_dikeluhkan;penurunan_rating;skor_prioritas
+Tangible;0.771;80;42.781;1.994;3.921;1.927;0.824
+Responsiveness;0.447;18;9.626;1.278;3.29;2.012;0.194
+Empathy;0.308;0;0.0;;3.096;0.0;0.0
+Assurance;0.299;14;7.487;1.929;3.191;1.262;0.094
+Reliability;0.235;14;7.487;1.393;3.234;1.841;0.138

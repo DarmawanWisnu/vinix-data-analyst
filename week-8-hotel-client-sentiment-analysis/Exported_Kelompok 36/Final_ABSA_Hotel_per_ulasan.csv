@@ -1,0 +1,188 @@
+id_ulasan;tanggal;Platform;rating_5;kelompok_rating;review_bersih;status_llm;Tangible;Reliability;Responsiveness;Assurance;Empathy
+1;2026-04-10;Agoda;2.5;Sedang (2.5–3.5);Friendly staff, but the wifi connection was terrible.;ok;Negatif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+2;2026-03-02;Agoda;4.0;Tinggi (≥4);kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+3;2026-03-16;Agoda;1.5;Rendah (≤2);overprice! ga sesuai foto. kamarnya sempit bgt sumpek.;ok;Negatif;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+4;2026-03-09;Agoda;1.0;Rendah (≤2);Staff barely speaks English. Breakfast was awful.;ok;Negatif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+5;2026-04-13;Traveloka;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+6;2026-04-07;Traveloka;1.0;Rendah (≤2);Terrible experience. The room was dirty and smelled like smoke.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+7;2026-03-03;Agoda;5.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+8;2026-03-06;Booking.com;2.0;Rendah (≤2);sprei kayak blm diganti, ada noda kuning. minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+9;2026-03-15;Booking.com;2.5;Sedang (2.5–3.5);biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+10;2026-04-05;Booking.com;3.0;Sedang (2.5–3.5);Check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+11;2026-04-15;Traveloka;4.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+12;2026-03-15;Agoda;2.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+13;2026-04-07;Traveloka;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+14;2026-04-21;Booking.com;2.0;Rendah (≤2);resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+15;2026-04-18;Booking.com;3.5;Sedang (2.5–3.5);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+16;2026-04-14;Traveloka;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+17;2026-03-22;Booking.com;1.0;Rendah (≤2);Very noisy! Poor soundproofing.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+18;2026-03-10;Booking.com;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+19;2026-04-18;Traveloka;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+20;2026-03-07;Traveloka;4.0;Tinggi (≥4);kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+21;2026-03-25;Booking.com;1.0;Rendah (≤2);Wifi lemot ga bisa dipake kerja sama sekali. harga doang mahal fasilitas zonk.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+22;2026-03-23;Booking.com;1.0;Rendah (≤2);Overpriced for what you get. The pictures are misleading.;ok;Tidak disebut;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+23;2026-04-08;Traveloka;2.0;Rendah (≤2);kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+24;2026-04-21;Booking.com;2.5;Sedang (2.5–3.5);check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+25;2026-04-16;Traveloka;3.0;Sedang (2.5–3.5);lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+26;2026-04-04;Booking.com;4.5;Tinggi (≥4);selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+27;2026-04-29;Agoda;5.0;Tinggi (≥4);Very clean, spacious room. Highly recommended.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+28;2026-03-06;Booking.com;4.0;Tinggi (≥4);Perfect location, beautiful pool. Will come back.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+29;2026-04-23;Booking.com;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+30;2026-04-06;Booking.com;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+31;2026-04-15;Booking.com;3.0;Sedang (2.5–3.5);lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+32;2026-03-03;Agoda;4.5;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+33;2026-04-19;Traveloka;2.0;Rendah (≤2);overprice! ga sesuai foto. kamarnya sempit bgt sumpek.;ok;Negatif;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+34;2026-03-06;Traveloka;1.0;Rendah (≤2);Banyak nyamuk, air panas di kamar mandi mati nyala. Gak rekomen.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+35;2026-04-25;Traveloka;1.0;Rendah (≤2);Very noisy! Poor soundproofing.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+36;2026-03-25;Traveloka;4.0;Tinggi (≥4);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+37;2026-03-30;Traveloka;1.0;Rendah (≤2);resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+38;2026-03-11;Booking.com;4.0;Tinggi (≥4);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+39;2026-03-23;Traveloka;4.0;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+40;2026-04-12;Booking.com;3.0;Sedang (2.5–3.5);Check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+41;2026-04-14;Traveloka;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+42;2026-04-08;Booking.com;2.5;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+43;2026-04-04;Traveloka;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+44;2026-03-11;Traveloka;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+45;2026-03-25;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+46;2026-04-29;Agoda;1.0;Rendah (≤2);kecewa berat. makanan breakfast dingin semua jam 8 pagi udh pada habis.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+47;2026-04-13;Traveloka;4.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+48;2026-04-23;Agoda;4.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+49;2026-03-15;Booking.com;3.0;Sedang (2.5–3.5);lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+50;2026-04-21;Agoda;1.0;Rendah (≤2);resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+51;2026-03-26;Booking.com;1.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+52;2026-03-05;Booking.com;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+53;2026-04-28;Traveloka;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+54;2026-03-14;Booking.com;3.0;Sedang (2.5–3.5);biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+55;2026-03-26;Booking.com;2.0;Rendah (≤2);Kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+56;2026-03-10;Traveloka;2.0;Rendah (≤2);Kecewa berat. Makanan breakfast dingin semua jam 8 pagi udh pada habis.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+57;2026-03-09;Traveloka;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+58;2026-04-17;Traveloka;4.0;Tinggi (≥4);Very clean, spacious room. Highly recommended.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+59;2026-04-17;Booking.com;4.5;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+60;2026-04-27;Booking.com;4.5;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+61;2026-03-24;Traveloka;5.0;Tinggi (≥4);Perfect location, beautiful pool. Will come back.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+62;2026-03-09;Traveloka;3.0;Sedang (2.5–3.5);lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+63;2026-03-06;Traveloka;2.0;Rendah (≤2);Banyak nyamuk, air panas di kamar mandi mati nyala. Gak rekomen.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+64;2026-04-25;Traveloka;5.0;Tinggi (≥4);Excellent stay! The staff went above and beyond.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+65;2026-03-10;Agoda;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+66;2026-04-20;Booking.com;3.0;Sedang (2.5–3.5);check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+67;2026-04-08;Traveloka;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+68;2026-03-25;Booking.com;5.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+69;2026-04-08;Booking.com;3.0;Sedang (2.5–3.5);check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+70;2026-04-03;Agoda;2.5;Sedang (2.5–3.5);Average stay. Clean enough, but breakfast options are very limited.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+71;2026-04-05;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+72;2026-04-13;Booking.com;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+73;2026-04-13;Agoda;2.0;Rendah (≤2);Kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+74;2026-04-19;Booking.com;3.5;Sedang (2.5–3.5);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+75;2026-03-08;Traveloka;1.0;Rendah (≤2);sprei kayak blm diganti, ada noda kuning. minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+76;2026-03-28;Traveloka;5.0;Tinggi (≥4);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+77;2026-03-30;Booking.com;1.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+78;2026-04-16;Agoda;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+79;2026-04-02;Agoda;3.5;Sedang (2.5–3.5);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+80;2026-04-02;Traveloka;2.0;Rendah (≤2);Kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+81;2026-04-25;Agoda;2.5;Sedang (2.5–3.5);kamarnya sih luas dan bersih, tapi stafnya kurang ramah pas di resto.;ok;Positif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+82;2026-04-23;Agoda;4.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+83;2026-03-10;Agoda;1.0;Rendah (≤2);Banyak nyamuk, air panas di kamar mandi mati nyala. Gak rekomen.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+84;2026-04-18;Booking.com;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+85;2026-04-04;Agoda;1.0;Rendah (≤2);Wifi lemot ga bisa dipake kerja sama sekali. harga doang mahal fasilitas zonk.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+86;2026-04-08;Agoda;4.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+87;2026-04-01;Traveloka;3.0;Sedang (2.5–3.5);kamarnya sih luas dan bersih, tapi stafnya kurang ramah pas di resto.;ok;Positif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+88;2026-03-08;Traveloka;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+89;2026-04-26;Booking.com;4.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+90;2026-03-16;Agoda;5.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+91;2026-03-16;Booking.com;3.0;Sedang (2.5–3.5);Check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+92;2026-03-06;Traveloka;5.0;Tinggi (≥4);Perfect location, beautiful pool. Will come back.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+93;2026-04-22;Traveloka;2.0;Rendah (≤2);overprice! ga sesuai foto. kamarnya sempit bgt sumpek.;ok;Negatif;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+94;2026-04-18;Booking.com;5.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+95;2026-03-09;Booking.com;3.0;Sedang (2.5–3.5);kamarnya sih luas dan bersih, tapi stafnya kurang ramah pas di resto.;ok;Positif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+96;2026-04-30;Traveloka;1.0;Rendah (≤2);Terrible experience. The room was dirty and smelled like smoke.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+97;2026-03-17;Booking.com;5.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+98;2026-03-14;Traveloka;3.0;Sedang (2.5–3.5);check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+99;2026-04-15;Booking.com;4.0;Tinggi (≥4);Perfect location, beautiful pool. Will come back.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+100;2026-03-26;Traveloka;5.0;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+101;2026-03-29;Agoda;3.5;Sedang (2.5–3.5);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+102;2026-03-08;Agoda;2.0;Rendah (≤2);Staff barely speaks English. Breakfast was awful.;ok;Negatif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+103;2026-03-15;Booking.com;4.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+104;2026-03-22;Traveloka;1.0;Rendah (≤2);overprice! ga sesuai foto. kamarnya sempit bgt sumpek.;ok;Negatif;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+105;2026-04-07;Booking.com;1.0;Rendah (≤2);Resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+106;2026-04-07;Traveloka;3.0;Sedang (2.5–3.5);sarapan bervariasi rasanya lumayan. tp ac d kamar agak berisik jd kurang nyenyak.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+107;2026-03-01;Booking.com;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+108;2026-04-15;Agoda;4.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+109;2026-03-15;Traveloka;3.0;Sedang (2.5–3.5);Overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+110;2026-04-27;Agoda;4.0;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+111;2026-04-25;Traveloka;4.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+112;2026-03-05;Agoda;1.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+113;2026-03-18;Agoda;1.5;Rendah (≤2);overprice! ga sesuai foto. kamarnya sempit bgt sumpek.;ok;Negatif;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+114;2026-03-14;Booking.com;5.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+115;2026-04-16;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+116;2026-03-16;Traveloka;4.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+117;2026-04-21;Booking.com;4.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+118;2026-03-13;Agoda;1.5;Rendah (≤2);Resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+119;2026-03-07;Agoda;2.0;Rendah (≤2);Banyak nyamuk, air panas di kamar mandi mati nyala. Gak rekomen.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+120;2026-03-23;Agoda;4.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+121;2026-03-27;Booking.com;4.5;Tinggi (≥4);Very clean, spacious room. Highly recommended.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+122;2026-04-25;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+123;2026-04-13;Traveloka;1.0;Rendah (≤2);Overpriced for what you get. The pictures are misleading.;ok;Tidak disebut;Negatif;Tidak disebut;Tidak disebut;Tidak disebut
+124;2026-03-04;Traveloka;3.0;Sedang (2.5–3.5);Average stay. Clean enough, but breakfast options are very limited.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+125;2026-04-16;Traveloka;5.0;Tinggi (≥4);Great value for money. The buffet breakfast was amazing!;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+126;2026-04-21;Traveloka;2.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+127;2026-03-16;Traveloka;5.0;Tinggi (≥4);Kamar luas, view bagus. proses checkin juga sat set ga pake lama. recommended!;ok;Positif;Tidak disebut;Positif;Tidak disebut;Tidak disebut
+128;2026-03-13;Traveloka;2.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+129;2026-03-09;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+130;2026-03-12;Traveloka;4.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+131;2026-03-30;Agoda;4.0;Tinggi (≥4);Excellent stay! The staff went above and beyond.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+132;2026-04-25;Booking.com;1.0;Rendah (≤2);Kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+133;2026-03-29;Agoda;4.5;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+134;2026-03-04;Booking.com;3.5;Sedang (2.5–3.5);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+135;2026-03-06;Traveloka;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+136;2026-03-11;Agoda;5.0;Tinggi (≥4);selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+137;2026-04-01;Booking.com;4.5;Tinggi (≥4);Great value for money. The buffet breakfast was amazing!;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+138;2026-03-14;Traveloka;3.0;Sedang (2.5–3.5);Overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+139;2026-04-27;Booking.com;3.5;Sedang (2.5–3.5);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+140;2026-03-11;Agoda;3.5;Sedang (2.5–3.5);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+141;2026-03-01;Booking.com;5.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+142;2026-03-17;Traveloka;3.0;Sedang (2.5–3.5);check in cepet, tapi kebersihan toilet tolong ditingkatkan lg.;ok;Negatif;Positif;Tidak disebut;Tidak disebut;Tidak disebut
+143;2026-03-19;Agoda;4.0;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+144;2026-04-14;Agoda;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+145;2026-03-10;Booking.com;2.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+146;2026-03-19;Traveloka;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+147;2026-03-04;Booking.com;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+148;2026-04-17;Agoda;1.0;Rendah (≤2);kecewa berat. makanan breakfast dingin semua jam 8 pagi udh pada habis.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+149;2026-03-04;Agoda;3.5;Sedang (2.5–3.5);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+150;2026-04-07;Agoda;4.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+151;2026-04-02;Agoda;1.0;Rendah (≤2);Wifi lemot ga bisa dipake kerja sama sekali. harga doang mahal fasilitas zonk.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+152;2026-03-04;Agoda;3.0;Sedang (2.5–3.5);Sarapan bervariasi rasanya lumayan. tp ac d kamar agak berisik jd kurang nyenyak.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+153;2026-04-24;Agoda;3.5;Sedang (2.5–3.5);Excellent stay! The staff went above and beyond.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+154;2026-03-05;Agoda;3.0;Sedang (2.5–3.5);lokasi strategis kemana mana deket. cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+155;2026-04-13;Traveloka;4.0;Tinggi (≥4);Selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+156;2026-03-26;Booking.com;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+157;2026-04-30;Booking.com;1.0;Rendah (≤2);Terrible experience. The room was dirty and smelled like smoke.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+158;2026-04-07;Booking.com;4.5;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+159;2026-04-09;Traveloka;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+160;2026-03-27;Traveloka;2.0;Rendah (≤2);resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+161;2026-04-29;Agoda;3.0;Sedang (2.5–3.5);sarapan bervariasi rasanya lumayan. tp ac d kamar agak berisik jd kurang nyenyak.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+162;2026-03-14;Booking.com;3.5;Sedang (2.5–3.5);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+163;2026-03-16;Agoda;5.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+164;2026-03-26;Traveloka;4.0;Tinggi (≥4);harga worth it banget dgn fasilitas yg dikasih. water heater berfungsi baik.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+165;2026-04-12;Traveloka;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+166;2026-03-30;Traveloka;3.0;Sedang (2.5–3.5);kamarnya sih luas dan bersih, tapi stafnya kurang ramah pas di resto.;ok;Positif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+167;2026-04-29;Agoda;1.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+168;2026-03-01;Booking.com;1.0;Rendah (≤2);Resepsionisnya jutek parah!! proses check in lama bgt nunggu hampir 2 jam.;ok;Tidak disebut;Negatif;Tidak disebut;Negatif;Tidak disebut
+169;2026-04-09;Traveloka;5.0;Tinggi (≥4);Mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+170;2026-03-05;Traveloka;3.0;Sedang (2.5–3.5);sarapan bervariasi rasanya lumayan. tp ac d kamar agak berisik jd kurang nyenyak.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+171;2026-04-02;Traveloka;3.0;Sedang (2.5–3.5);Kamarnya sih luas dan bersih, TAPI stafnya kurang ramah pas di resto.;ok;Positif;Tidak disebut;Tidak disebut;Negatif;Tidak disebut
+172;2026-03-09;Agoda;2.0;Rendah (≤2);Kamar bau apek bgt, ac nya juga kurang dingin. pdhal bawa anak kecil. nyesel nginep sini.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+173;2026-04-26;Booking.com;3.0;Sedang (2.5–3.5);overall lumayan lah, cuman wifi aja sering putus2.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+174;2026-04-26;Traveloka;4.0;Tinggi (≥4);mantapppp nyaman banget, bersih, staf ramah semua.;ok;Positif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+175;2026-03-24;Booking.com;3.0;Sedang (2.5–3.5);biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+176;2026-03-11;Booking.com;2.5;Sedang (2.5–3.5);Friendly staff, but the wifi connection was terrible.;ok;Negatif;Tidak disebut;Tidak disebut;Positif;Tidak disebut
+177;2026-04-23;Traveloka;4.0;Tinggi (≥4);karyawannya helpfull banget pas sy ketinggalan barang lgsg dihubungin.;ok;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Positif
+178;2026-04-09;Booking.com;1.0;Rendah (≤2);Sprei kayak blm diganti, ada noda kuning. Minta ganti tpi housekeeping lama.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+179;2026-04-12;Booking.com;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+180;2026-04-29;Traveloka;5.0;Tinggi (≥4);overall bagus bgt, bersih dan nyaman. anak2 seneng bgt main di pool nya.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+181;2026-04-30;Traveloka;3.0;Sedang (2.5–3.5);Biasa aja, standard bintang 3. nothing special.;tanpa_aspek;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+182;2026-03-17;Traveloka;3.0;Sedang (2.5–3.5);Lokasi strategis kemana mana deket. Cuma sayang bangunan agak tua dan kasurnya keras.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+183;2026-04-26;Agoda;5.0;Tinggi (≥4);selalu langganan nginep sini. breakfast nya juara! banyak pilihan;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+184;2026-04-17;Agoda;5.0;Tinggi (≥4);Perfect location, beautiful pool. Will come back.;ok;Positif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+185;2026-03-18;Traveloka;2.0;Rendah (≤2);Wifi lemot ga bisa dipake kerja sama sekali. harga doang mahal fasilitas zonk.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
+186;2026-04-08;Traveloka;1.0;Rendah (≤2);pelayanan sangat buruk, parkiran sempit susah keluar masuk.;ok;Negatif;Tidak disebut;Negatif;Tidak disebut;Tidak disebut
+187;2026-04-15;Agoda;1.0;Rendah (≤2);Kecewa berat. Makanan breakfast dingin semua jam 8 pagi udh pada habis.;ok;Negatif;Tidak disebut;Tidak disebut;Tidak disebut;Tidak disebut
