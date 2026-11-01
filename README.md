@@ -1,23 +1,22 @@
-# 📊 Vinix Data Analyst — MSIB Batch 5 Portfolio
-### *End-to-End Data Analytics Journey: From Onboarding to AI-Powered Sentiment Analysis*
+# 📊 Vinix Data Analyst Portfolio
+
+### _End-to-End Data Analytics Journey: From Onboarding to AI-Powered Sentiment Analysis_
 
 ![Program](https://img.shields.io/badge/Program-MSIB%20Batch%205-blueviolet?style=for-the-badge&logo=google-scholar)
 ![Company](https://img.shields.io/badge/Company-PT%20Vinix%20Seven%20Aurum-blue?style=for-the-badge&logo=building)
 ![Division](https://img.shields.io/badge/Division-Data%20Analyst-success?style=for-the-badge&logo=table)
 ![Tools](https://img.shields.io/badge/Stack-Excel%20%7C%20Python%20%7C%20Looker%20Studio%20%7C%20LLM%20API-orange?style=for-the-badge)
-![Duration](https://img.shields.io/badge/Duration-8%20Weeks%20(Aug--Oct%202026)-red?style=for-the-badge)
+![Duration](<https://img.shields.io/badge/Duration-8%20Weeks%20(Aug--Oct%202026)-red?style=for-the-badge>)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
 ## 📌 Executive Summary
 
-Repository ini mendokumentasikan seluruh perjalanan program **Magang dan Studi Independen Bersertifikat (MSIB) Batch 5** di **PT Vinix Seven Aurum (Vinix7)**, divisi **Data Analyst**, selama **8 minggu** (Agustus – Oktober 2026).
-
 Program ini dirancang secara progresif — dimulai dari pengenalan fundamental data literacy, kemudian meningkat ke data cleaning & wrangling di Excel, exploratory data analysis (EDA) dengan Python, visualisasi data profesional, analisis retensi pelanggan, pembangunan dashboard interaktif, hingga puncaknya pada **Aspect-Based Sentiment Analysis (ABSA)** menggunakan Large Language Model (LLM) API.
 
 ```
-Kelompok 36 — Divisi Data Analyst
+Data Analyst
 8 Modul  |  6 Project Deliverables  |  5 Tools  |  15 LogBooks
 Excel → Python (Pandas, Matplotlib, Seaborn) → Looker Studio → LLM API (Groq)
 ```
@@ -39,16 +38,16 @@ flowchart LR
 
 ### Skills Progression Matrix
 
-| Week | Modul | Domain | Core Skill Acquired | Tool / Stack |
-| :---: | :---: | :--- | :--- | :--- |
-| 1 | Onboarding | — | Program orientation, team formation | Zoom, Google Meet |
-| 2 | Onboarding | — | Critical Thinking & Data Literacy | Zoom, YouTube |
-| 3 | Modul 3 | Human Resources | Data Cleaning, Wrangling, Pivot Table, VLOOKUP | **Microsoft Excel** |
-| 4 | Modul 4 | Education (EdTech) | EDA, Statistical Profiling, Hypothesis Generation | **Python** (Pandas, Matplotlib, Seaborn) |
-| 5 | Modul 5 | Education (EdTech) | Visual Graph Makeover, Industrial Design System | **Python** (Matplotlib) |
-| 6 | Modul 6 | Marketing & CRM | Customer Retention Analysis, Outlier Detection | **Python** (Pandas, Matplotlib) |
-| 7 | Modul 7 | Healthcare | Interactive Dashboard, BI Storytelling | **Looker Studio**, Excel |
-| 8 | Modul 8 | Hospitality | ABSA, Prompt Engineering, NLP with LLM API | **Python**, Groq API, LLM |
+| Week |   Modul    | Domain             | Core Skill Acquired                               | Tool / Stack                             |
+| :--: | :--------: | :----------------- | :------------------------------------------------ | :--------------------------------------- |
+|  1   | Onboarding | —                  | Program orientation, team formation               | -                                        |
+|  2   | Onboarding | —                  | Critical Thinking & Data Literacy                 | -                                        |
+|  3   |  Modul 3   | Human Resources    | Data Cleaning, Wrangling, Pivot Table, VLOOKUP    | **Microsoft Excel**                      |
+|  4   |  Modul 4   | Education (EdTech) | EDA, Statistical Profiling, Hypothesis Generation | **Python** (Pandas, Matplotlib, Seaborn) |
+|  5   |  Modul 5   | Education (EdTech) | Visual Graph Makeover, Industrial Design System   | **Python** (Matplotlib)                  |
+|  6   |  Modul 6   | Marketing & CRM    | Customer Retention Analysis, Outlier Detection    | **Python** (Pandas, Matplotlib)          |
+|  7   |  Modul 7   | Healthcare         | Interactive Dashboard, BI Storytelling            | **Looker Studio**, Excel                 |
+|  8   |  Modul 8   | Hospitality        | ABSA, Prompt Engineering, NLP with LLM API        | **Python**, Groq API, LLM                |
 
 ---
 
@@ -62,19 +61,6 @@ flowchart LR
 
 Minggu pertama difokuskan pada **orientasi program MSIB** dan pembentukan struktur organisasi tim magang.
 
-| Hari | Kegiatan |
-| :--- | :--- |
-| Selasa, 18/08 | Kick-off PELURU UT & Zoom Onboarding Program resmi seluruh peserta MBKM Vinix7 |
-| Rabu, 19/08 | Zoom Pendataan Konfirmasi Peserta & Briefing Sesi Divisi Data Analyst bersama Kak Ferry |
-| Kamis, 20/08 | Pendataan ulang dan pembagian kelompok divisi magang |
-| Jumat, 21/08 | Pendataan tim/kelompok dan pengisian administratif spreadsheet |
-
-### 🎯 Deliverables
-- ✅ Konfirmasi peserta dan pembagian divisi
-- ✅ Pembentukan Kelompok 36 Data Analyst
-
----
-
 ## 📅 Week 2 — Data Literacy & Team Building
 
 ![Week](https://img.shields.io/badge/Week-2-green?style=flat-square)
@@ -85,21 +71,7 @@ Minggu pertama difokuskan pada **orientasi program MSIB** dan pembentukan strukt
 
 Minggu kedua berfokus pada **pembekalan soft skills** dan pengenalan konsep **Critical Thinking & Data Literacy** sebagai fondasi untuk modul-modul analitis selanjutnya.
 
-| Hari | Kegiatan |
-| :--- | :--- |
-| Senin, 24/08 | Zoom Pembekalan Goals & Penjelasan Rincian Kegiatan Divisi oleh PIC Kak Atina. Pembentukan grup WhatsApp Kelompok 36 |
-| Selasa, 25/08 | Perkenalan anggota kelompok (Wisnu, Syahreza, Dorra, Yuliana, Nurul) & diskusi program |
-| Rabu, 26/08 | Zoom Pengayaan: Tata Tertib, Kerja Sama Tim & Budaya Kerja |
-| Kamis, 27/08 | Zoom Sesi Kendala bersama PIC Divisi & Zoom Materi **Critical Thinking & Data Literacy** |
-| Jumat, 28/08 | Pembuatan Video Yel-Yel Kelompok & finalisasi pengumpulan tugas |
-
-### 🎯 Deliverables
-- ✅ Video Yel-Yel Kelompok 36
-- ✅ Penguasaan konsep dasar Critical Thinking & Data Literacy
-
----
-
-## 📅 Week 3 — HR Performance Analyst *(Excel)*
+## 📅 Week 3 — HR Performance Analyst _(Excel)_
 
 ![Week](https://img.shields.io/badge/Week-3-blue?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-3-blue?style=flat-square)
@@ -170,17 +142,17 @@ flowchart LR
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `Employee_dataset.xlsx` | Raw dataset karyawan dari klien |
-| `HR_Performance_Analyst.xlsx` | Workbook analisis lengkap (Cleaning → Wrangling → Pivot) |
-| `HR_Performance_Executive_Report.pdf` | Laporan Eksekutif final untuk klien |
-| `HR_Performance_Executive_Report_Editable.docx` | Versi editable laporan |
-| `Tutorial_Excel_HR_Data_Analyst_Click_by_Click.pdf` | Dokumentasi tutorial step-by-step |
+| File                                                | Deskripsi                                                |
+| :-------------------------------------------------- | :------------------------------------------------------- |
+| `Employee_dataset.xlsx`                             | Raw dataset karyawan dari klien                          |
+| `HR_Performance_Analyst.xlsx`                       | Workbook analisis lengkap (Cleaning → Wrangling → Pivot) |
+| `HR_Performance_Executive_Report.pdf`               | Laporan Eksekutif final untuk klien                      |
+| `HR_Performance_Executive_Report_Editable.docx`     | Versi editable laporan                                   |
+| `Tutorial_Excel_HR_Data_Analyst_Click_by_Click.pdf` | Dokumentasi tutorial step-by-step                        |
 
 ---
 
-## 📅 Week 4 — Student Performance EDA *(Python)*
+## 📅 Week 4 — Student Performance EDA _(Python)_
 
 ![Week](https://img.shields.io/badge/Week-4-blue?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-4-blue?style=flat-square)
@@ -210,14 +182,14 @@ flowchart LR
 
 ### Column Dictionary
 
-| Column | Data Type | Business Meaning |
-| :--- | :--- | :--- |
-| `Hours Studied` | Numeric | Jam belajar per minggu |
-| `Previous Scores` | Numeric | Skor ujian sebelumnya |
-| `Extracurricular Activities` | Categorical | Keterlibatan aktivitas ekstrakurikuler (Yes/No) |
-| `Sleep Hours` | Numeric | Rata-rata jam tidur per hari |
-| `Sample Question Papers Practiced` | Numeric | Jumlah latihan soal yang dikerjakan |
-| `Performance Index` | Numeric | **Target metric** — Indeks performa siswa (10–100) |
+| Column                             | Data Type   | Business Meaning                                   |
+| :--------------------------------- | :---------- | :------------------------------------------------- |
+| `Hours Studied`                    | Numeric     | Jam belajar per minggu                             |
+| `Previous Scores`                  | Numeric     | Skor ujian sebelumnya                              |
+| `Extracurricular Activities`       | Categorical | Keterlibatan aktivitas ekstrakurikuler (Yes/No)    |
+| `Sleep Hours`                      | Numeric     | Rata-rata jam tidur per hari                       |
+| `Sample Question Papers Practiced` | Numeric     | Jumlah latihan soal yang dikerjakan                |
+| `Performance Index`                | Numeric     | **Target metric** — Indeks performa siswa (10–100) |
 
 ### 💻 Analytical Deep-Dive (Python)
 
@@ -269,16 +241,16 @@ plt.show()
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `Student_Performance.csv` | Raw dataset 10K siswa |
-| `EDA_Student_Performance_Modul 4.ipynb` | Notebook Google Colab — analisis EDA lengkap |
-| `Laporan_EDA_Student_Performance_Minggu_4_Kelompok 36.pdf` | Laporan EDA komprehensif |
-| `Technical_Report_Tugas_Minggu_4.docx` | Technical Report resmi |
+| File                                                       | Deskripsi                                    |
+| :--------------------------------------------------------- | :------------------------------------------- |
+| `Student_Performance.csv`                                  | Raw dataset 10K siswa                        |
+| `EDA_Student_Performance_Modul 4.ipynb`                    | Notebook Google Colab — analisis EDA lengkap |
+| `Laporan_EDA_Student_Performance_Minggu_4_Kelompok 36.pdf` | Laporan EDA komprehensif                     |
+| `Technical_Report_Tugas_Minggu_4.docx`                     | Technical Report resmi                       |
 
 ---
 
-## 📅 Week 5 — Visual Graph Makeover *(Design System)*
+## 📅 Week 5 — Visual Graph Makeover _(Design System)_
 
 ![Week](https://img.shields.io/badge/Week-5-purple?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-5-purple?style=flat-square)
@@ -307,7 +279,7 @@ flowchart LR
 # Palet warna yang konsisten dan professional
 COLORS = {
     'primary': '#2E86AB',
-    'secondary': '#A23B72', 
+    'secondary': '#A23B72',
     'accent': '#F18F01',
     'neutral': '#C73E1D',
     'background': '#F5F5F5'
@@ -358,16 +330,16 @@ plt.tight_layout()
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `EDA_Student_Performance_Modul_5_Visual_Makeover_Kelompok36.ipynb` | Notebook utama Visual Makeover |
-| `EDA_Student_Performance_Modul_5_Visual_Makeover_Kelompok36(3)_updated_v3.ipynb` | Versi final (updated v3) |
-| `Technical_Report_Week5_Visual_Makeover_Kelompok36.pdf` | Technical Report v1 |
-| `Technical_Report_Week5_Visual_Makeover_Kelompok36 (1).pdf` | Technical Report final |
+| File                                                                             | Deskripsi                      |
+| :------------------------------------------------------------------------------- | :----------------------------- |
+| `EDA_Student_Performance_Modul_5_Visual_Makeover_Kelompok36.ipynb`               | Notebook utama Visual Makeover |
+| `EDA_Student_Performance_Modul_5_Visual_Makeover_Kelompok36(3)_updated_v3.ipynb` | Versi final (updated v3)       |
+| `Technical_Report_Week5_Visual_Makeover_Kelompok36.pdf`                          | Technical Report v1            |
+| `Technical_Report_Week5_Visual_Makeover_Kelompok36 (1).pdf`                      | Technical Report final         |
 
 ---
 
-## 📅 Week 6 — Customer Retention & Marketing Analysis *(Python)*
+## 📅 Week 6 — Customer Retention & Marketing Analysis _(Python)_
 
 ![Week](https://img.shields.io/badge/Week-6-orange?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-6-orange?style=flat-square)
@@ -407,7 +379,7 @@ df = pd.read_csv('marketing_campaign_logs.csv')
 Q1 = df.select_dtypes(include='number').quantile(0.25)
 Q3 = df.select_dtypes(include='number').quantile(0.75)
 IQR = Q3 - Q1
-outliers = ((df.select_dtypes(include='number') < (Q1 - 1.5 * IQR)) | 
+outliers = ((df.select_dtypes(include='number') < (Q1 - 1.5 * IQR)) |
             (df.select_dtypes(include='number') > (Q3 + 1.5 * IQR)))
 print(f"Total outlier rows: {outliers.any(axis=1).sum()}")  # → 16 rows
 
@@ -434,16 +406,16 @@ print(f"Total outlier rows: {outliers.any(axis=1).sum()}")  # → 16 rows
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `marketing_campaign_logs.csv` | Raw dataset log kampanye |
-| `marketing_campaign_logs_cleaned.xlsx` | Dataset setelah cleaning |
+| File                                          | Deskripsi                           |
+| :-------------------------------------------- | :---------------------------------- |
+| `marketing_campaign_logs.csv`                 | Raw dataset log kampanye            |
+| `marketing_campaign_logs_cleaned.xlsx`        | Dataset setelah cleaning            |
 | `customer_retention_marketing_analysis.ipynb` | Notebook analisis retensi pelanggan |
-| `Laporan_Executive_Report.docx` | Executive Report untuk klien |
+| `Laporan_Executive_Report.docx`               | Executive Report untuk klien        |
 
 ---
 
-## 📅 Week 7 — RS Patient Analytic & Dashboard *(Looker Studio)*
+## 📅 Week 7 — RS Patient Analytic & Dashboard _(Looker Studio)_
 
 ![Week](https://img.shields.io/badge/Week-7-red?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-7-red?style=flat-square)
@@ -473,44 +445,44 @@ flowchart LR
 
 ### Column Dictionary
 
-| Column | Data Type | Business Meaning |
-| :--- | :--- | :--- |
-| `no_rm` | VARCHAR | Nomor Rekam Medis unik pasien |
-| `waktu_registrasi` | DATETIME | Tanggal dan jam pasien mengambil nomor antrean |
-| `kd_poli` | VARCHAR | Kode Poliklinik tujuan (Poli Umum, Gigi, Anak, Spesialis Dalam, dll.) |
-| `kategori_usia` | VARCHAR | Kelompok usia pasien (Balita, Remaja, Dewasa, **Lansia**) |
-| `metode_bayar` | VARCHAR | Jalur jaminan kesehatan (**BPJS**, Umum, Asuransi) |
-| `durasi_tunggu_mnt` | INT | Total waktu tunggu registrasi → masuk ruangan dokter (menit) |
+| Column              | Data Type | Business Meaning                                                      |
+| :------------------ | :-------- | :-------------------------------------------------------------------- |
+| `no_rm`             | VARCHAR   | Nomor Rekam Medis unik pasien                                         |
+| `waktu_registrasi`  | DATETIME  | Tanggal dan jam pasien mengambil nomor antrean                        |
+| `kd_poli`           | VARCHAR   | Kode Poliklinik tujuan (Poli Umum, Gigi, Anak, Spesialis Dalam, dll.) |
+| `kategori_usia`     | VARCHAR   | Kelompok usia pasien (Balita, Remaja, Dewasa, **Lansia**)             |
+| `metode_bayar`      | VARCHAR   | Jalur jaminan kesehatan (**BPJS**, Umum, Asuransi)                    |
+| `durasi_tunggu_mnt` | INT       | Total waktu tunggu registrasi → masuk ruangan dokter (menit)          |
 
 ### 📊 Dashboard — 4 Pertanyaan Bisnis
 
-| No | Pertanyaan Bisnis | Temuan | Implikasi |
-| :---: | :--- | :--- | :--- |
-| 1 | **Tren Kunjungan** — Bagaimana tren volume kedatangan pasien harian? | 5,500 pasien/bulan, rata-rata **177.4 pasien/hari** (155–210 range). Terdapat hari lonjakan > 200 pasien. | Perlu penyesuaian kapasitas pelayanan pada hari lonjakan. |
-| 2 | **Proporsi Pasien** — Berapa rasio metode pembayaran? | **BPJS 64%**, Umum 26.2%, Asuransi 9.9% | Dominasi BPJS → prioritaskan efisiensi administrasi & verifikasi kepesertaan. |
-| 3 | **Evaluasi Poliklinik** — Poli mana dengan waktu tunggu terlama? | **Spesialis Dalam: 78.38 menit**, Spesialis Jantung: 77.39 menit, Poli Gigi: 42.87 menit, Poli Umum: 41.86 menit | Spesialis Dalam & Jantung perlu prioritas evaluasi alur pelayanan. |
-| 4 | **Isu Lansia BPJS Pagi** — Apakah pasien Lansia BPJS mengalami waktu tunggu ekstrem? | ⚠️ **Spesialis Dalam: 151.94 menit** (Lansia + BPJS + Pagi), vs Sp. Jantung 75.82 mnt | **TERBUKTI!** Waktu tunggu hampir 2.5 jam — perlu sistem janji temu & pre-check-in. |
+| No  | Pertanyaan Bisnis                                                                    | Temuan                                                                                                           | Implikasi                                                                           |
+| :-: | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+|  1  | **Tren Kunjungan** — Bagaimana tren volume kedatangan pasien harian?                 | 5,500 pasien/bulan, rata-rata **177.4 pasien/hari** (155–210 range). Terdapat hari lonjakan > 200 pasien.        | Perlu penyesuaian kapasitas pelayanan pada hari lonjakan.                           |
+|  2  | **Proporsi Pasien** — Berapa rasio metode pembayaran?                                | **BPJS 64%**, Umum 26.2%, Asuransi 9.9%                                                                          | Dominasi BPJS → prioritaskan efisiensi administrasi & verifikasi kepesertaan.       |
+|  3  | **Evaluasi Poliklinik** — Poli mana dengan waktu tunggu terlama?                     | **Spesialis Dalam: 78.38 menit**, Spesialis Jantung: 77.39 menit, Poli Gigi: 42.87 menit, Poli Umum: 41.86 menit | Spesialis Dalam & Jantung perlu prioritas evaluasi alur pelayanan.                  |
+|  4  | **Isu Lansia BPJS Pagi** — Apakah pasien Lansia BPJS mengalami waktu tunggu ekstrem? | ⚠️ **Spesialis Dalam: 151.94 menit** (Lansia + BPJS + Pagi), vs Sp. Jantung 75.82 mnt                            | **TERBUKTI!** Waktu tunggu hampir 2.5 jam — perlu sistem janji temu & pre-check-in. |
 
 ### 🚀 Rekomendasi Strategis
 
-| Area | Tindakan | Expected Impact |
-| :--- | :--- | :--- |
+| Area                   | Tindakan                                                                                          | Expected Impact                                       |
+| :--------------------- | :------------------------------------------------------------------------------------------------ | :---------------------------------------------------- |
 | 🏥 **Spesialis Dalam** | Terapkan sistem janji temu online & pengaturan waktu kedatangan spesifik untuk pasien Lansia BPJS | Penurunan waktu tunggu dari 151 mnt → target < 60 mnt |
-| 📋 **Pre-Check-In** | Implementasi online pre-check-in untuk mempercepat proses administrasi BPJS | Efisiensi administrasi 30–50% |
-| 👥 **Penambahan Staf** | Tambah petugas pendaftaran dan tenaga pelayanan pada jam sibuk pagi (07.00–10.00) | Distribusi antrean yang lebih merata |
+| 📋 **Pre-Check-In**    | Implementasi online pre-check-in untuk mempercepat proses administrasi BPJS                       | Efisiensi administrasi 30–50%                         |
+| 👥 **Penambahan Staf** | Tambah petugas pendaftaran dan tenaga pelayanan pada jam sibuk pagi (07.00–10.00)                 | Distribusi antrean yang lebih merata                  |
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `rs_knjngn_rawat_jln.csv` | Raw dataset 5,500 kunjungan rawat jalan |
+| File                                     | Deskripsi                               |
+| :--------------------------------------- | :-------------------------------------- |
+| `rs_knjngn_rawat_jln.csv`                | Raw dataset 5,500 kunjungan rawat jalan |
 | `RS_Kunjungan_Rawat_Jalan_Cleaning.xlsx` | Dataset setelah cleaning & standarisasi |
-| `Laporan minggu 7.pdf` | Laporan insight & analisis lengkap |
-| `Screenshot 2026-10-21 211612.png` | Screenshot Dashboard Looker Studio |
+| `Laporan minggu 7.pdf`                   | Laporan insight & analisis lengkap      |
+| `Screenshot 2026-10-21 211612.png`       | Screenshot Dashboard Looker Studio      |
 
 ---
 
-## 📅 Week 8 — Hotel Client Sentiment Analysis *(ABSA + LLM)*
+## 📅 Week 8 — Hotel Client Sentiment Analysis _(ABSA + LLM)_
 
 ![Week](https://img.shields.io/badge/Week-8-black?style=flat-square)
 ![Module](https://img.shields.io/badge/Module-8-black?style=flat-square)
@@ -562,7 +534,7 @@ client = groq.Groq(api_key="...")
 # === Task 3: Custom Prompt Engineering ===
 SYSTEM_PROMPT = """
 Anda adalah analis sentimen hotel profesional. Untuk setiap ulasan,
-ekstrak sentimen (Positif/Negatif/Netral) khusus untuk setiap aspek 
+ekstrak sentimen (Positif/Negatif/Netral) khusus untuk setiap aspek
 SERVQUAL berikut: Tangible, Reliability, Responsiveness, Assurance, Empathy.
 Format output: JSON dengan key per aspek.
 """
@@ -581,12 +553,12 @@ for idx, review in df.iterrows():
 
 ### 📊 Visualisasi Hasil ABSA
 
-| Visualisasi | Insight |
-| :--- | :--- |
+| Visualisasi                       | Insight                                                              |
+| :-------------------------------- | :------------------------------------------------------------------- |
 | **Persentase Sentimen per Aspek** | Tangible adalah aspek yang paling sering dikeluhkan (**43% ulasan**) |
-| **Rating × Sentimen per Aspek** | Saat Tangible dikeluhkan, rata-rata rating turun dari **3.9 → 2.0** |
-| **Heatmap Keluhan × Rating** | Konsentrasi keluhan Tangible pada rating rendah (1–2) |
-| **Korelasi Aspek ↔ Rating** | **Tangible memiliki korelasi Spearman tertinggi: 0.77** |
+| **Rating × Sentimen per Aspek**   | Saat Tangible dikeluhkan, rata-rata rating turun dari **3.9 → 2.0**  |
+| **Heatmap Keluhan × Rating**      | Konsentrasi keluhan Tangible pada rating rendah (1–2)                |
+| **Korelasi Aspek ↔ Rating**       | **Tangible memiliki korelasi Spearman tertinggi: 0.77**              |
 
 ### 📈 Key Findings & Executive Summary (B-I-A)
 
@@ -618,15 +590,15 @@ for idx, review in df.iterrows():
 
 ### 📁 Struktur File
 
-| File | Deskripsi |
-| :--- | :--- |
-| `client_hotel_review.csv` | Raw dataset 187 ulasan OTA |
-| `Tugas_Minggu_8_Kelompok36.ipynb` | Notebook utama ABSA analysis |
-| `MODUL_8_ABSA_with_LLM.ipynb` | Notebook modul ABSA + LLM API |
-| `Laporan_Minggu_8_ABSA_Kelompok_36.docx` | Laporan lengkap ABSA |
-| `18-Article Text-18-1-10-20170315.pdf` | Paper rujukan literatur 1 |
-| `2879-Article Text-15349-1-10-20260106.pdf` | Paper rujukan literatur 2 |
-| `Exported_Kelompok 36/` | Folder output: visualisasi PNG, CSV hasil, executive summary |
+| File                                        | Deskripsi                                                    |
+| :------------------------------------------ | :----------------------------------------------------------- |
+| `client_hotel_review.csv`                   | Raw dataset 187 ulasan OTA                                   |
+| `Tugas_Minggu_8_Kelompok36.ipynb`           | Notebook utama ABSA analysis                                 |
+| `MODUL_8_ABSA_with_LLM.ipynb`               | Notebook modul ABSA + LLM API                                |
+| `Laporan_Minggu_8_ABSA_Kelompok_36.docx`    | Laporan lengkap ABSA                                         |
+| `18-Article Text-18-1-10-20170315.pdf`      | Paper rujukan literatur 1                                    |
+| `2879-Article Text-15349-1-10-20260106.pdf` | Paper rujukan literatur 2                                    |
+| `Exported_Kelompok 36/`                     | Folder output: visualisasi PNG, CSV hasil, executive summary |
 
 ---
 
@@ -636,11 +608,6 @@ for idx, review in df.iterrows():
 vinix-data-analyst/
 │
 ├── LogBook/
-│   ├── LOGBOOK Wisnu 1.pdf                    # Logbook Minggu 1 (Onboarding)
-│   ├── LOGBOOK Wisnu 2.pdf                    # Logbook Minggu 2 (Data Literacy)
-│   ├── LOGBOOK Wisnu 3.pdf                    # Logbook Minggu 3 (Modul 1)
-│   ├── ...                                    # Logbook Minggu 4–15
-│   └── LOGBOOK Wisnu 15.docx                  # Logbook Minggu 15
 │
 ├── week-1-internship-assignment/
 │   └── README.md                              # Dokumentasi Penugasan Fundamental (Modul 1)
@@ -689,60 +656,42 @@ vinix-data-analyst/
 
 ## 🛠️ Tech Stack Summary
 
-| Layer | Tool | Use Case |
-| :--- | :--- | :--- |
-| **Data Cleaning & Wrangling** | Microsoft Excel | Audit, cleaning, VLOOKUP, Pivot Table (Week 3) |
-| **Exploratory Data Analysis** | Python (Pandas, NumPy) | Statistical profiling, EDA (Week 4, 5, 6, 8) |
-| **Data Visualization** | Python (Matplotlib, Seaborn) | Grafik, heatmap, scatter plot, visual makeover (Week 4, 5, 6, 8) |
-| **Business Intelligence** | Google Looker Studio | Interactive Dashboard (Week 7) |
-| **NLP / AI** | Groq LLM API (LLaMA 3.3 70B) | Aspect-Based Sentiment Analysis (Week 8) |
-| **Collaboration** | Google Colab, Google Docs, Zoom | Notebook sharing, report writing, meetings |
-| **Version Control** | Git & GitHub | Repository management |
+| Layer                         | Tool                            | Use Case                                                         |
+| :---------------------------- | :------------------------------ | :--------------------------------------------------------------- |
+| **Data Cleaning & Wrangling** | Microsoft Excel                 | Audit, cleaning, VLOOKUP, Pivot Table (Week 3)                   |
+| **Exploratory Data Analysis** | Python (Pandas, NumPy)          | Statistical profiling, EDA (Week 4, 5, 6, 8)                     |
+| **Data Visualization**        | Python (Matplotlib, Seaborn)    | Grafik, heatmap, scatter plot, visual makeover (Week 4, 5, 6, 8) |
+| **Business Intelligence**     | Google Looker Studio            | Interactive Dashboard (Week 7)                                   |
+| **NLP / AI**                  | Groq LLM API (LLaMA 3.3 70B)    | Aspect-Based Sentiment Analysis (Week 8)                         |
+| **Collaboration**             | Google Colab, Google Docs, Zoom | Notebook sharing, report writing, meetings                       |
+| **Version Control**           | Git & GitHub                    | Repository management                                            |
 
 ---
 
 ## 📖 How to Explore This Repository
 
 ### Option 1: Browse by Week
+
 Navigasikan ke folder week yang diinginkan (contoh: `week-3-hr-analyst/`) untuk melihat seluruh file terkait minggu tersebut.
 
 ### Option 2: Clone Repository
+
 ```bash
 git clone https://github.com/DarmawanWisnu/vinix-data-analyst.git
 cd vinix-data-analyst
 ```
 
 ### Option 3: Run Notebooks
+
 1. Buka file `.ipynb` di [Google Colab](https://colab.research.google.com/) atau Jupyter Notebook.
 2. Install dependencies jika diperlukan:
+
 ```bash
 pip install pandas matplotlib seaborn numpy groq
 ```
+
 3. Jalankan cell secara berurutan untuk melihat analisis dan visualisasi.
 
 ---
 
-## 👥 Team — Kelompok 36
-
-| Role | Name |
-| :--- | :--- |
-| **Member** | Wisnu Darmawan — UIN Syarif Hidayatullah (Teknik Informatika) |
-| **Member** | Syahreza |
-| **Member** | Dorra (Ketua Kelompok) |
-| **Member** | Yuliana |
-| **Member** | Nurul |
-
----
-
-## 👤 Author & Contact
-
-**Wisnu Darmawan** — Data Analyst
-- **Program:** MSIB Batch 5 — PT Vinix Seven Aurum (Vinix7)
-- **University:** UIN Syarif Hidayatullah Jakarta — Teknik Informatika
-- **Tools Used:** Excel, Python, Pandas, Matplotlib, Seaborn, Looker Studio, Groq LLM API
-- **LinkedIn:** [Wisnu Darmawan](https://linkedin.com/in/)
-- **GitHub:** [@DarmawanWisnu](https://github.com/DarmawanWisnu)
-
----
-
-> *Repository ini disusun sebagai dokumentasi portofolio Data Analyst dari program MSIB Batch 5 di PT Vinix Seven Aurum. Seluruh analisis mencerminkan proses pembelajaran progresif dari fundamental data literacy hingga implementasi AI-powered sentiment analysis.*
+> _Repository ini disusun sebagai dokumentasi portofolio Data Analyst. Seluruh analisis mencerminkan proses pembelajaran progresif dari fundamental data literacy hingga implementasi AI-powered sentiment analysis._
