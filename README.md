@@ -5,20 +5,20 @@
 ![Program](https://img.shields.io/badge/Program-MSIB%20Batch%205-blueviolet?style=for-the-badge&logo=google-scholar)
 ![Company](https://img.shields.io/badge/Company-PT%20Vinix%20Seven%20Aurum-blue?style=for-the-badge&logo=building)
 ![Division](https://img.shields.io/badge/Division-Data%20Analyst-success?style=for-the-badge&logo=table)
-![Tools](https://img.shields.io/badge/Stack-Excel%20%7C%20Python%20%7C%20Looker%20Studio%20%7C%20LLM%20API-orange?style=for-the-badge)
-![Duration](<https://img.shields.io/badge/Duration-8%20Weeks%20(Aug--Oct%202026)-red?style=for-the-badge>)
+![Tools](https://img.shields.io/badge/Stack-Excel%20%7C%20Python%20%7C%20Looker%20Studio%20%7C%20LLM%20API%20%7C%20Tableau-orange?style=for-the-badge)
+![Duration](<https://img.shields.io/badge/Duration-10%20Weeks%20(Aug--Nov%202026)-red?style=for-the-badge>)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
 ## 📌 Executive Summary
 
-Program ini dirancang secara progresif — dimulai dari pengenalan fundamental data literacy, kemudian meningkat ke data cleaning & wrangling di Excel, exploratory data analysis (EDA) dengan Python, visualisasi data profesional, analisis retensi pelanggan, pembangunan dashboard interaktif, hingga puncaknya pada **Aspect-Based Sentiment Analysis (ABSA)** menggunakan Large Language Model (LLM) API.
+Program ini dirancang secara progresif — dimulai dari pengenalan fundamental data literacy, kemudian meningkat ke data cleaning & wrangling di Excel, exploratory data analysis (EDA) dengan Python, visualisasi data profesional, analisis retensi pelanggan, pembangunan dashboard interaktif di Looker Studio & Tableau, analisis sentimen perhotelan berbasis **Aspect-Based Sentiment Analysis (ABSA)** dengan LLM API, hingga optimasi performa kanal pemesanan dan payment gateway hotel.
 
 ```
 Data Analyst
-8 Modul  |  6 Project Deliverables  |  5 Tools  |  15 LogBooks
-Excel → Python (Pandas, Matplotlib, Seaborn) → Looker Studio → LLM API (Groq)
+10 Modul  |  8 Project Deliverables  |  6 Tools  |  15 LogBooks
+Excel → Python (Pandas, Matplotlib, Seaborn) → Looker Studio → LLM API (Groq) → Tableau
 ```
 
 ---
@@ -34,20 +34,24 @@ flowchart LR
     W5 --> W6[🟠 Week 6<br>Customer Retention<br>Python]
     W6 --> W7[🔴 Week 7<br>RS Patient<br>Looker Studio]
     W7 --> W8[⚫ Week 8<br>Hotel Sentiment<br>ABSA + LLM]
+    W8 --> W9[🟤 Week 9<br>HR Attrition<br>Tableau]
+    W9 --> W10[🟡 Week 10<br>Hotel Performance<br>Direct Web & OTA]
 ```
 
 ### Skills Progression Matrix
 
-| Week |   Modul    | Domain             | Core Skill Acquired                               | Tool / Stack                             |
-| :--: | :--------: | :----------------- | :------------------------------------------------ | :--------------------------------------- |
-|  1   | Onboarding | —                  | Program orientation, team formation               | -                                        |
-|  2   | Onboarding | —                  | Critical Thinking & Data Literacy                 | -                                        |
-|  3   |  Modul 3   | Human Resources    | Data Cleaning, Wrangling, Pivot Table, VLOOKUP    | **Microsoft Excel**                      |
-|  4   |  Modul 4   | Education (EdTech) | EDA, Statistical Profiling, Hypothesis Generation | **Python** (Pandas, Matplotlib, Seaborn) |
-|  5   |  Modul 5   | Education (EdTech) | Visual Graph Makeover, Industrial Design System   | **Python** (Matplotlib)                  |
-|  6   |  Modul 6   | Marketing & CRM    | Customer Retention Analysis, Outlier Detection    | **Python** (Pandas, Matplotlib)          |
-|  7   |  Modul 7   | Healthcare         | Interactive Dashboard, BI Storytelling            | **Looker Studio**, Excel                 |
-|  8   |  Modul 8   | Hospitality        | ABSA, Prompt Engineering, NLP with LLM API        | **Python**, Groq API, LLM                |
+| Week |   Modul    | Domain                | Core Skill Acquired                               | Tool / Stack                             |
+| :--: | :--------: | :-------------------- | :------------------------------------------------ | :--------------------------------------- |
+|  1   | Onboarding | —                     | Program orientation, team formation               | -                                        |
+|  2   | Onboarding | —                     | Critical Thinking & Data Literacy                 | -                                        |
+|  3   |  Modul 3   | Human Resources       | Data Cleaning, Wrangling, Pivot Table, VLOOKUP    | **Microsoft Excel**                      |
+|  4   |  Modul 4   | Education (EdTech)    | EDA, Statistical Profiling, Hypothesis Generation | **Python** (Pandas, Matplotlib, Seaborn) |
+|  5   |  Modul 5   | Education (EdTech)    | Visual Graph Makeover, Industrial Design System   | **Python** (Matplotlib)                  |
+|  6   |  Modul 6   | Marketing & CRM       | Customer Retention Analysis, Outlier Detection    | **Python** (Pandas, Matplotlib)          |
+|  7   |  Modul 7   | Healthcare            | Interactive Dashboard, BI Storytelling            | **Looker Studio**, Excel                 |
+|  8   |  Modul 8   | Hospitality           | ABSA, Prompt Engineering, NLP with LLM API        | **Python**, Groq API, LLM                |
+|  9   |  Modul 9   | Human Resources       | HR Attrition Analytics, BI Storytelling, Slicers  | **Tableau**, Microsoft Excel             |
+|  10  |  Modul 10  | Hospitality & Revenue | Channel Performance, Payment Gateway Optimization | **Microsoft Excel**, Presentation        |
 
 ---
 
@@ -602,6 +606,230 @@ for idx, review in df.iterrows():
 
 ---
 
+## 📅 Week 9 — HR Attrition Analytics & Interactive Dashboard _(Tableau)_
+
+![Week](https://img.shields.io/badge/Week-9-teal?style=flat-square)
+![Module](https://img.shields.io/badge/Module-9-teal?style=flat-square)
+![Tool](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel)
+![Period](https://img.shields.io/badge/Period-28%20Oct--03%20Nov%202026-blue?style=flat-square)
+
+### 📋 Konteks Bisnis
+
+Divisi Human Resources (HR) klien menghadapi **krisis lonjakan turnover karyawan (attrition)** dalam setahun terakhir. Manajemen HR memiliki data historis profil karyawan dari sistem internal, namun kesulitan menemukan pola dan akar penyebab karena data tersaji dalam tabel kaku. Tim Data Analyst ditugaskan membangun **Interactive Dashboard di Tableau** untuk membedah data profil 427 karyawan, mengidentifikasi faktor dominan pemicu pengunduran diri, serta merumuskan rekomendasi strategis menggunakan kerangka **Business Insight & Action (B-I-A)**.
+
+### 🛠️ End-to-End Workflow
+
+```mermaid
+flowchart LR
+    A[hr_attrition_dataset.xlsx<br>427 Records] --> B[Data Audit & Cleaning<br>Excel Quality Flags]
+    B --> C[Feature Engineering<br>Commute Band, Salary Band]
+    C --> D[Tableau Worksheets<br>Satisfaction, Commute, Dept]
+    D --> E[Interactive Dashboard<br>Filters, Slicers, Red Bar >40%]
+    E --> F[Executive Storytelling<br>B-I-A Framework & Action Plan]
+```
+
+### 📐 Dataset & Grain
+
+- **Dataset:** `hr_attrition_dataset.xlsx` (Workbook: `HR_Attrition_Analysis.xlsx`) — **427 catatan profil karyawan**
+- **Grain:** 1 baris = 1 profil karyawan dengan metrik kompensasi, jarak komuter, skor kepuasan, dan status attrition
+- **Overall Turnover:** **157 karyawan resign (36.77%)** vs **270 karyawan aktif (63.23%)**
+- **Ambang Batas Risiko (Threshold):** Tingkat resign **> 40%** diklasifikasikan sebagai **High Risk** (ditandai batang merah pada visualisasi dashboard)
+
+### Column Dictionary
+
+| Column               | Data Type | Business Meaning                                                              |
+| :------------------- | :-------- | :---------------------------------------------------------------------------- |
+| `emp_id`             | VARCHAR   | ID unik karyawan                                                              |
+| `age_yrs`            | INT       | Usia karyawan (tahun)                                                         |
+| `gender`             | VARCHAR   | Jenis kelamin (Male / Female)                                                 |
+| `department`         | VARCHAR   | Departemen (Growth & Marketing, Operations, Tech & Product, People & Culture) |
+| `job_title`          | VARCHAR   | Posisi jabatan pekerjaan (12 variasi peran)                                   |
+| `commute_dist_km`    | INT       | Jarak perjalanan dari tempat tinggal ke kantor (km)                           |
+| `base_salary_idr`    | NUMERIC   | Gaji pokok bulanan karyawan (IDR)                                             |
+| `satisfaction_score` | INT       | Skor kepuasan kerja (Skala 1–4, 1 = Sangat Tidak Puas, 4 = Sangat Puas)       |
+| `attrition_status`   | VARCHAR   | Status attrition (**Yes** = Resign, **No** = Masih Bekerja)                   |
+
+### 📊 Segmentasi Risiko Karyawan (>40% Risk Threshold)
+
+| Dimensi Analisis     | Kelompok Berisiko Tinggi | Attrition Rate | Temuan & Pola Bisnis                                                                   |
+| :------------------- | :----------------------- | :------------: | :------------------------------------------------------------------------------------- |
+| **Kepuasan Kerja**   | Skor 1 & Skor 2          | **50.6%–52.0%**| Risiko resign 2x lipat lebih tinggi dibandingkan skor kepuasan 3 (23.4%)               |
+| **Jarak Komuter**    | 21–30 km                 | **55.5%**      | Tingkat turnover tertinggi antar rentang jarak (66 dari 119 karyawan resign)            |
+| **Departemen**       | Growth & Marketing       | **43.8%**      | Departemen paling rentan dengan total 53 karyawan resign dari 121 staf                 |
+| **Posisi Pekerjaan** | Content Strategist       | **54.5%**      | Posisi dengan tingkat pengunduran diri tertinggi (24 dari 44 staf resign)              |
+| **Posisi Pekerjaan** | Social Media Specialist  | **48.8%**      | Tekanan performa dinamis dan target engagement tinggi (20 dari 41 staf resign)         |
+| **Posisi Pekerjaan** | Operations Associate     | **47.6%**      | Beban operasional harian tinggi yang berpotensi memicu kejenuhan kerja                 |
+
+### 📈 Key Findings & Executive Summary (B-I-A)
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│ HR ATTRITION ANALYTICS & INTERACTIVE DASHBOARD (B-I-A)               │
+├──────────────────────────────────────────────────────────────────────┤
+│ [Business]                                                           │
+│ Tingkat turnover tahunan mencapai 36.77% (157 dari 427 staf resign). │
+│ Manajemen HR membutuhkan visualisasi data interaktif untuk memetakan │
+│ titik kebocoran talenta dan memitigasi biaya pergantian karyawan.    │
+│                                                                      │
+│ [Insight]                                                            │
+│ • Risiko resign tidak terdistribusi merata — terkonsentrasi pada     │
+│   kelompok dengan turnover > 40% (indikator merah pada dashboard).   │
+│ • Kepuasan Kerja: Skor kepuasan rendah (skor 1: 50.6%, skor 2: 52.0%)│
+│   memiliki korelasi langsung dengan tingginya niat berpindah kerja.  │
+│ • Beban Jarak Tempuh: Karyawan berjarak 21–30 km mengalami attrition │
+│   55.5%, berbanding terbalik dengan jarak dekat 0–10 km (16.7%).     │
+│ • Klaster Departemen: Growth & Marketing memimpin tingkat turnover   │
+│   (43.8%), dengan episentrum pada Content Strategist (54.5%).        │
+│                                                                      │
+│ [Action]                                                             │
+│ 1. RETENTION INTERVIEW: Lakukan stay interview berkala kepada staf    │
+│    dengan skor kepuasan 1–2 guna mengidentifikasi isu kompensasi/beban│
+│ 2. WORKPLACE FLEXIBILITY: Terapkan opsi kerja hybrid/WFA atau        │
+│    tunjangan transportasi bagi karyawan berjarak tempuh > 20 km.      │
+│ 3. ROLE WORKLOAD REDESIGN: Evaluasi target KPI, ritme produksi konten,│
+│    dan jalur jenjang karier Content Strategist & Social Media.       │
+│ 4. DASHBOARD TRACKING: Pantau efektivitas intervensi HR berkala      │
+│    dengan target menurunkan attrition kelompok berisiko ke < 30%.    │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+### 🚀 Rekomendasi Strategis (Action Plan)
+
+| Area Program                | Inisiatif Intervensi HR                                                                           | Target Sasaran                                   | Expected Impact                                        |
+| :-------------------------- | :------------------------------------------------------------------------------------------------ | :----------------------------------------------- | :----------------------------------------------------- |
+| 🎯 **Stay Interview**       | Wawancara retensi proaktif terstruktur untuk mendeteksi friksi kerja sebelum karyawan memutuskan resign | Karyawan kepuasan skor 1 & 2                     | Deteksi dini retensi talenta kunci                     |
+| 🚗 **Mobility Support**     | Skema kerja hybrid (2–3 hari WFA) dan penyesuaian jam kerja fleksibel untuk menghindari kemacetan | Karyawan jarak komuter 21–30 km                  | Penurunan turnover jarak jauh dari 55.5% → < 35%       |
+| 📈 **Workload Rebalancing** | Penyesuaian beban target dan pembentukan jalur karier jelas bagi spesialis pemasaran konten      | Content Strategist & Social Media                | Mengurangi kejenuhan kerja & meningkatkan stabilitas tim|
+| 📊 **Dashboard Monitoring** | Evaluasi bulanan metrik attrition per divisi menggunakan Tableau Dashboard                        | Manajemen HR & Direksi                           | Pengambilan keputusan berbasis data secara real-time   |
+
+### 📁 Struktur File
+
+| File                                | Deskripsi                                                          |
+| :---------------------------------- | :----------------------------------------------------------------- |
+| `hr_attrition_dataset.xlsx`         | Raw dataset profil 427 karyawan dari sistem HR internal            |
+| `HR_Attrition_Analysis.xlsx`        | Workbook Excel: data cleaning, feature engineering, & summary pivot|
+| `HR Attrition Dashboard.twbx`       | Packaged Tableau Workbook lengkap dengan visualisasi & filter      |
+| `HR Attrition Dashboard.png`        | Screenshot visual dashboard resolusi tinggi                        |
+| `HR Attrition Dashboard.pdf`        | Dokumen export dashboard siap cetak                                |
+| `Laporan_Minggu_9_Kelompok_36.docx` | Laporan analitis komprehensif & sintesis B-I-A                     |
+| `Tugas Minggu 9 - Data Analyst.pdf` | Panduan penugasan resmi proyek                                     |
+| [Tableau Public Live Dashboard](https://public.tableau.com/views/Kelompok36_TableauHRAttritionDashboard/HRAttritionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | **Dashboard Interaktif Live di Tableau Public** |
+
+---
+
+## 📅 Week 10 — Hotel Booking Performance & Channel Optimization _(Excel & Executive Presentation)_
+
+![Week](https://img.shields.io/badge/Week-10-gold?style=flat-square)
+![Module](https://img.shields.io/badge/Module-10-gold?style=flat-square)
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel)
+![Tool](https://img.shields.io/badge/Tool-Executive%20Presentation-193849?style=flat-square)
+![Period](https://img.shields.io/badge/Period-04--10%20Nov%202026-blue?style=flat-square)
+
+### 📋 Konteks Bisnis
+
+Klien grup manajemen perhotelan mencatatkan tingkat hunian kamar yang memuaskan, namun margin laba bersih yang terealisasi sangat tipis. Dugaan awal manajemen adalah akibat ketergantungan masif pada **Online Travel Agent (OTA)** seperti Agoda, Traveloka, dan Booking.com yang membebankan komisi tinggi (rata-rata 17.69%). Di sisi lain, website pemesanan langsung (**Direct Web**) yang bebas potongan komisi mencatat kontribusi revenue yang sangat rendah. Tim Data Analyst diminta menginvestigasi **2.500 catatan percobaan booking** kamar untuk menemukan akar permasalahan (*root cause*), menyusun **5-Slide Executive Presentation Deck**, dan merancang **Executive Infographic (B-I-A)** untuk jajaran direksi.
+
+### 🛠️ End-to-End Workflow
+
+```mermaid
+flowchart LR
+    A[hotel_logs.csv<br>2,500 Booking Attempts] --> B[Data Cleaning & Audit<br>Platform & Payment Categorization]
+    B --> C[Revenue & Commission Analysis<br>Gross vs Net Calculation]
+    C --> D[Funnel & Status Breakdown<br>Success vs Failure per Platform]
+    D --> E[Root Cause Discovery<br>Credit Card 71.88% Failure]
+    E --> F[5-Slide Executive Deck & B-I-A<br>Actionable Strategic Roadmap]
+```
+
+### 📐 Dataset & Grain
+
+- **Dataset:** `hotel_logs.csv` (Workbook: `Hotel_Booking_Analysis.xlsx`) — **2,500 catatan percobaan transaksi booking** (1 Juli–30 September 2025)
+- **Grain:** 1 baris = 1 transaksi percobaan pemesanan kamar hotel
+- **Realisasi Gross Revenue Sukses:** **IDR 2.505,05 Juta** (OTA IDR 2.261,15 Juta vs Direct Web IDR 243,90 Juta)
+- **Estimasi Potongan Komisi OTA:** **IDR 399,97 Juta** (17.69% dari total gross revenue transaksi sukses OTA)
+
+### Column Dictionary
+
+| Column         | Data Type | Business Meaning                                                      |
+| :------------- | :-------- | :-------------------------------------------------------------------- |
+| `book_id`      | VARCHAR   | ID unik transaksi pemesanan (`BKX-xxxxxx`)                            |
+| `booking_time` | DATETIME  | Waktu dan tanggal percobaan pemesanan dilakukan                       |
+| `platform`     | VARCHAR   | Kanal pemesanan: `Direct_Web`, `OTA_Agd`, `OTA_Trv`, `OTA_Bkg`         |
+| `pay_method`   | VARCHAR   | Metode pembayaran: Credit Card, Virtual Account, E-Wallet, Pay at Hotel|
+| `trx_status`   | VARCHAR   | Status akhir transaksi: **Success**, **Failed**, **Cancelled**         |
+| `gross_rev`    | NUMERIC   | Nilai bruto transaksi pemesanan (IDR)                                 |
+| `comm_fee_pct` | DECIMAL   | Persentase komisi platform (0% untuk Direct Web; 15%–20% untuk OTA)   |
+
+### 📊 Channel Comparison & Payment Gateway Failure Deep-Dive
+
+| Metrik Evaluasi                   | OTA Platforms (Agoda, Traveloka, Booking.com) | Direct Web (Situs Resmi Hotel) | Komparasi & Implikasi Bisnis                                                  |
+| :-------------------------------- | :-------------------------------------------: | :----------------------------: | :---------------------------------------------------------------------------- |
+| **Porsi Percobaan Booking**       | **84.48%** (2.112 transaksi)                  | **15.52%** (388 transaksi)     | Ketergantungan ekstrem pada kanal pihak ketiga                                |
+| **Tingkat Keberhasilan (Success)**| **84.61%** (1.787 transaksi)                  | **51.55%** (200 transaksi)     | Success rate Direct Web anjlok tajam (-33% dibanding OTA)                     |
+| **Tingkat Kegagalan (Failure)**   | **6.11%** (129 transaksi)                     | **38.66%** (150 transaksi)     | **Tingkat kegagalan Direct Web 6.3x lipat lebih buruk!**                      |
+| **Tingkat Pembatalan (Cancelled)**| **9.28%** (196 transaksi)                     | **9.79%** (38 transaksi)       | Relatif berimbang antar kedua kanal pemesanan                                 |
+| **Gross Revenue Realisasi**       | **IDR 2.261,15 Juta**                         | **IDR 243,90 Juta**            | Direct Web hanya menyumbang 9.7% dari total revenue transaksi sukses          |
+| **Potongan Komisi Platform**      | ⚠️ **IDR 399,97 Juta** (17.69%)               | **IDR 0,00 (0% Komisi)**       | Pemotongan margin keuntungan yang sangat signifikan                           |
+| **Akar Masalah Pembayaran**       | Infrastruktur payment stabil (>90% success)   | 🚨 **Credit Card: 71.88% GAGAL**| **138 dari 192 transaksi kartu kredit gagal — mencakup 92% kegagalan Direct Web!** |
+
+> [!IMPORTANT]
+> **Kebocoran Transaksi (Bukan Minat Pelanggan) Adalah Akar Masalah Utama:**
+> Calon tamu telah tertarik dan datang bertransaksi ke situs resmi Direct Web (192 mencoba membayar via Credit Card), namun **71.88% gagal diproses** oleh sistem Payment Gateway (3D Secure timeout, integrasi API, atau rejection). Sebaliknya, metode pembayaran lokal seperti **Virtual Account (87.3% success)** dan **E-Wallet (84.9% success)** berjalan sangat handal.
+
+### 📈 Key Findings & Executive Summary (B-I-A)
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│ HOTEL BOOKING PERFORMANCE & PAYMENT GATEWAY ANALYSIS (B-I-A)         │
+├──────────────────────────────────────────────────────────────────────┤
+│ [Business]                                                           │
+│ Okupansi hotel tinggi namun margin tipis akibat komisi OTA mencapai  │
+│ IDR 399,97 Juta (17.69%), sementara revenue kanal bebas komisi       │
+│ (Direct Web) hanya menyumbang IDR 243,90 Juta (9.7% dari total).     │
+│                                                                      │
+│ [Insight]                                                            │
+│ • Dominasi Kanal: 84.48% volume booking datang melalui OTA.          │
+│ • Kebocoran Konversi: Success rate Direct Web hanya 51.55%, dengan   │
+│   failure rate mencapai 38.66% (vs OTA failure rate 6.11%).          │
+│ • Akar Masalah Spesifik: Transaksi Credit Card pada Direct Web gagal │
+│   sebesar 71.88% (138 dari 192 percobaan gagal). Transaksi CC gagal │
+│   ini menyumbang 92% dari seluruh kegagalan transaksi di Direct Web. │
+│ • Metode Alternatif: Virtual Account & E-Wallet memiliki tingkat     │
+│   keberhasilan stabil (>85%), namun belum diutamakan pada UI checkout.│
+│                                                                      │
+│ [Action]                                                             │
+│ 1. PERBAIKAN PAYMENT GATEWAY (Mendesak): Audit teknis alur 3DS,      │
+│    konfigurasi merchant account, dan perbaikan integrasi API CC.     │
+│ 2. OPTIMASI TAMPILAN CHECKOUT: Posisikan Virtual Account & E-Wallet   │
+│    sebagai metode pembayaran prioritas di urutan teratas.            │
+│ 3. STRATEGI DIRECT BOOKING: Terapkan program loyalitas dan benefit   │
+│    eksklusif (diskon F&B, free early check-in) untuk mendongkrak     │
+│    porsi Direct Web setelah sistem pembayaran stabil.                │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+### 🚀 Roadmap Rekomendasi Strategis (Action Plan)
+
+| Fase Pelaksanaan | Inisiatif Utama | Rincian Tindakan | Target Key Result / KPI | Penanggung Jawab (PIC) |
+| :--: | :-------------- | :--------------- | :---------------------- | :--------------------- |
+| **Fase 1**<br>*(Immediate: M1–M2)* | **Audit & Perbaikan Payment Gateway** | Investigasi API payment gateway, logging error kartu kredit, dan penyempurnaan alur 3D Secure | Failure rate kartu kredit turun dari **71.88% → < 10%** | IT Engineering & Payment Vendor |
+| **Fase 2**<br>*(Short-term: M1)* | **Optimasi Antarmuka Checkout** | Redesain alur pembayaran: tempatkan Virtual Account & E-Wallet di baris utama; tambah panduan pembayaran | Success rate Direct Web meningkat menjadi **> 80%** | Product Team & UI/UX Designer |
+| **Fase 3**<br>*(Medium-term: M2–M3)* | **Direct Booking Incentives** | Tawarkan jaminan harga terbaik, free breakfast upgrade, dan poin loyalitas pada situs resmi | Porsi volume Direct Web naik dari **15.5% → > 30%** | Commercial & Marketing Team |
+
+### 📁 Struktur File
+
+| File                                       | Deskripsi                                                                 |
+| :----------------------------------------- | :------------------------------------------------------------------------ |
+| `hotel_logs.csv`                           | Raw dataset 2.500 transaksi percobaan booking hotel                       |
+| `Hotel_Booking_Analysis.xlsx`              | Workbook Excel: data cleaning, EDA, pivot breakdown & analisis komisi    |
+| `Slide 1.png` s/d `Slide 5.png`            | Visual slide presentasi eksekutif resolusi tinggi (3508 × 2480 px)        |
+| `Hotel_Booking_5_Slide_Master_Prompts.md`  | Dokumentasi art direction & prompt engineering pembuatan 5 slide presentasi|
+| `Laporan_Minggu_10_Kelompok_36....pdf`     | Portofolio presentasi executive deck & infografis B-I-A lengkap           |
+| `Laporan_Minggu_10_Kelompok_36....docx`    | Dokumen laporan analitis formal versi word                                |
+| `Tugas Minggu 10 - Data Analyst.pdf`       | Dokumen penugasan resmi proyek                                            |
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -648,6 +876,24 @@ vinix-data-analyst/
 │   ├── Laporan_Minggu_8_ABSA_Kelompok_36.docx # Laporan ABSA
 │   └── Exported_Kelompok 36/                  # Output: PNG, CSV, Executive Summary
 │
+├── week-9-hr-attrition/
+│   ├── hr_attrition_dataset.xlsx              # Raw dataset profil 427 karyawan
+│   ├── HR_Attrition_Analysis.xlsx             # Workbook cleaning & pivot analysis
+│   ├── HR Attrition Dashboard.twbx            # Packaged Tableau Workbook interaktif
+│   ├── HR Attrition Dashboard.png             # Screenshot visual dashboard
+│   ├── HR Attrition Dashboard.pdf             # Export dokumen dashboard
+│   ├── Laporan_Minggu_9_Kelompok_36.docx      # Laporan analisis & evaluasi B-I-A
+│   └── Tugas Minggu 9 - Data Analyst.pdf      # Panduan penugasan proyek
+│
+├── week-10-hotel-performance-analysis/
+│   ├── hotel_logs.csv                         # Raw log 2.500 transaksi booking
+│   ├── Hotel_Booking_Analysis.xlsx            # Workbook cleaning & EDA transaksi
+│   ├── Hotel_Booking_5_Slide_Master_Prompts.md # Dokumentasi prompt visual slide
+│   ├── Slide 1.png s/d Slide 5.png            # Executive presentation slide deck
+│   ├── Laporan_Minggu_10_Kelompok_36....pdf   # Portfolio insight & executive report
+│   ├── Laporan_Minggu_10_Kelompok_36....docx  # Versi word laporan eksekutif
+│   └── Tugas Minggu 10 - Data Analyst.pdf     # Panduan penugasan proyek
+│
 ├── .gitignore
 └── README.md                                  # ← You are here
 ```
@@ -658,11 +904,12 @@ vinix-data-analyst/
 
 | Layer                         | Tool                            | Use Case                                                         |
 | :---------------------------- | :------------------------------ | :--------------------------------------------------------------- |
-| **Data Cleaning & Wrangling** | Microsoft Excel                 | Audit, cleaning, VLOOKUP, Pivot Table (Week 3)                   |
+| **Data Cleaning & Wrangling** | Microsoft Excel                 | Audit, cleaning, VLOOKUP, Pivot Table (Week 3, 7, 9, 10)         |
 | **Exploratory Data Analysis** | Python (Pandas, NumPy)          | Statistical profiling, EDA (Week 4, 5, 6, 8)                     |
 | **Data Visualization**        | Python (Matplotlib, Seaborn)    | Grafik, heatmap, scatter plot, visual makeover (Week 4, 5, 6, 8) |
-| **Business Intelligence**     | Google Looker Studio            | Interactive Dashboard (Week 7)                                   |
+| **Business Intelligence**     | Looker Studio, Tableau          | Interactive Dashboard & Visual Reporting (Week 7, Week 9)        |
 | **NLP / AI**                  | Groq LLM API (LLaMA 3.3 70B)    | Aspect-Based Sentiment Analysis (Week 8)                         |
+| **Strategic Presentation**    | Corporate Deck / Slide Design   | Executive Storytelling & Infographic B-I-A (Week 10)             |
 | **Collaboration**             | Google Colab, Google Docs, Zoom | Notebook sharing, report writing, meetings                       |
 | **Version Control**           | Git & GitHub                    | Repository management                                            |
 
@@ -672,7 +919,7 @@ vinix-data-analyst/
 
 ### Option 1: Browse by Week
 
-Navigasikan ke folder week yang diinginkan (contoh: `week-3-hr-analyst/`) untuk melihat seluruh file terkait minggu tersebut.
+Navigasikan ke folder week yang diinginkan (contoh: `week-3-hr-analyst/`, `week-9-hr-attrition/`, atau `week-10-hotel-performance-analysis/`) untuk melihat seluruh file terkait minggu tersebut.
 
 ### Option 2: Clone Repository
 
@@ -681,7 +928,7 @@ git clone https://github.com/DarmawanWisnu/vinix-data-analyst.git
 cd vinix-data-analyst
 ```
 
-### Option 3: Run Notebooks
+### Option 3: Run Notebooks & Visualizations
 
 1. Buka file `.ipynb` di [Google Colab](https://colab.research.google.com/) atau Jupyter Notebook.
 2. Install dependencies jika diperlukan:
@@ -690,8 +937,10 @@ cd vinix-data-analyst
 pip install pandas matplotlib seaborn numpy groq
 ```
 
-3. Jalankan cell secara berurutan untuk melihat analisis dan visualisasi.
+3. Untuk dashboard BI interaktif:
+   - Week 7: Buka link Looker Studio pada laporan terkait.
+   - Week 9: Buka file `.twbx` menggunakan [Tableau Desktop / Tableau Public](https://public.tableau.com/) atau akses tautan [Tableau Public Live Dashboard](https://public.tableau.com/views/Kelompok36_TableauHRAttritionDashboard/HRAttritionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
-> _Repository ini disusun sebagai dokumentasi portofolio Data Analyst. Seluruh analisis mencerminkan proses pembelajaran progresif dari fundamental data literacy hingga implementasi AI-powered sentiment analysis._
+> _Repository ini disusun sebagai dokumentasi portofolio Data Analyst. Seluruh analisis mencerminkan proses pembelajaran progresif dari fundamental data literacy hingga implementasi AI-powered sentiment analysis, business intelligence interactive dashboard, dan optimalisasi performa bisnis hotel._
